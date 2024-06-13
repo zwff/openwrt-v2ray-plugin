@@ -17,7 +17,7 @@
   tar xJf openwrt-sdk-18.06.1-ar71xx-tiny_gcc-7.3.0_musl.Linux-x86_64.tar.xz
   cd openwrt-sdk-*-ar71xx-*
   # 获取 v2ray-plugin Makefile
-  git clone [https://github.com/chenhw2/openwrt-v2ray-plugin.git package/v2ray-plugin](https://github.com/zwff/openwrt-v2ray-plugin.git)
+  git clone https://github.com/zwff/openwrt-v2ray-plugin.git package/v2ray-plugin
   # 选择要编译的包 Network -> v2ray-plugin
   make menuconfig
   # 开始编译
