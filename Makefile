@@ -8,7 +8,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=v2ray-plugin
-PKG_VERSION:=5.15.1
+PKG_VERSION:=1.3.2
 PKG_RELEASE:=20240317
 PKG_MAINTAINER:=honwen <https://github.com/honwen>
 
